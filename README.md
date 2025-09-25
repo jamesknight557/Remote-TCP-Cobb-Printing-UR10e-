@@ -36,7 +36,7 @@ We now convert the .gcode file into a simple list (.csv) that the robot can use.
 
 1. Find the **"GCODE to CSV"** tool on the computer (it's a Python file)
 
-2. Open it in your python environment, ensure the gcode file is in the same directory and change the last line of code ot match your GCODE file.
+2. Open it in your python environment, ensure the gcode file is in the same directory and change the last line of code ot match your GCODE file (**Note** you may have to use pip3 to install some dependencies).
 
 3. The tool will automatically create a new **.csv file** in the same folder, feel free to change the name.
 <img width="745" height="991" alt="Screenshot 2025-09-25 111119" src="https://github.com/user-attachments/assets/69ed19da-f8e3-4db0-916d-7d6f9edba9c7" />
