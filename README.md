@@ -68,13 +68,17 @@ RoboDK is the program that controls the robot arm. We use it to check everything
 #### Position the Path:
 
 1. Move the path so it sits correctly on the virtual print bed - The first layer must be **flush with the bed surface**
+   
+ <img width="1088" height="1107" alt="Screenshot 2025-09-25 111417" src="https://github.com/user-attachments/assets/1a57fad0-42f3-4b85-b593-9be458db94b1" />
 
 #### Adjust Settings (if needed):
 
-1. **Right-click** the toolpath and select **"Edit Curve"**
+1. **Right-click** the toolpath and select **"Select Curve"**
 
 2. Here you can change the **printing speed**, the **bed angle**, and how the robot **approaches/retracts the bed**
-<img width="1088" height="1107" alt="Screenshot 2025-09-25 111417" src="https://github.com/user-attachments/assets/1a57fad0-42f3-4b85-b593-9be458db94b1" />
+   
+<img width="1917" height="1107" alt="Screenshot 2025-09-25 111456" src="https://github.com/user-attachments/assets/52fad376-86ae-4512-8ad0-fc61be683d49" />
+
 
 ### Step 4: Start the Print
 
@@ -93,7 +97,7 @@ Now we get the clay flowing and start the robot.
 2. Before running ensure **run on robot** is checked or else you will just see the simualtion
 
 3. At any point press the emergcncy stop on the pendant to stop the robot
-<img width="1917" height="1107" alt="Screenshot 2025-09-25 111456" src="https://github.com/user-attachments/assets/52fad376-86ae-4512-8ad0-fc61be683d49" />
+
 
 ## File Reference
 
