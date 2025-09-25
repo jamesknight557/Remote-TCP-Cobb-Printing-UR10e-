@@ -27,6 +27,8 @@ Cura is a program that creates the path the printer will follow.
 4. Click the **"Slice"** button - This generates the toolpath
 
 5. Click **"Save to File"** and save the file as a **.gcode file** - Remember where you save it!
+<img width="758" height="492" alt="Screenshot 2025-09-25 110813" src="https://github.com/user-attachments/assets/482cf518-c172-458b-8b83-494cadabc8bc" />
+<img width="758" height="492" alt="Screenshot 2025-09-25 110846" src="https://github.com/user-attachments/assets/79c2a410-44a8-4600-a029-6d828acdc6d6" />
 
 ### Step 2: Convert for the Robot with Python
 
@@ -37,6 +39,7 @@ We now convert the .gcode file into a simple list (.csv) that the robot can use.
 2. Open it in your python environment, ensure the gcode file is in the same directory and change the last line of code ot match your GCODE file.
 
 3. The tool will automatically create a new **.csv file** in the same folder, feel free to change the name.
+<img width="745" height="991" alt="Screenshot 2025-09-25 111119" src="https://github.com/user-attachments/assets/69ed19da-f8e3-4db0-916d-7d6f9edba9c7" />
 
 ### Step 3: Set Up the Robot in RoboDK
 
@@ -53,8 +56,10 @@ RoboDK is the program that controls the robot arm. We use it to check everything
 4. Click **"Connect"**
 
 5. **Important:** Ensure the physical robot is in **REMOTE mode**
+<img width="1918" height="1136" alt="Screenshot 2025-09-25 111324" src="https://github.com/user-attachments/assets/a8a1ecf2-65ce-4e8e-966c-9c019b97ed01" />
 
 #### Load the Toolpath:
+
 
 1. Drag the **.csv file** you created in Step 2 into the RoboDK window
 
@@ -69,6 +74,7 @@ RoboDK is the program that controls the robot arm. We use it to check everything
 1. **Right-click** the toolpath and select **"Edit Curve"**
 
 2. Here you can change the **printing speed**, the **bed angle**, and how the robot **approaches/retracts the bed**
+<img width="1088" height="1107" alt="Screenshot 2025-09-25 111417" src="https://github.com/user-attachments/assets/1a57fad0-42f3-4b85-b593-9be458db94b1" />
 
 ### Step 4: Start the Print
 
@@ -87,6 +93,7 @@ Now we get the clay flowing and start the robot.
 2. Before running ensure **run on robot** is checked or else you will just see the simualtion
 
 3. At any point press the emergcncy stop on the pendant to stop the robot
+<img width="1917" height="1107" alt="Screenshot 2025-09-25 111456" src="https://github.com/user-attachments/assets/52fad376-86ae-4512-8ad0-fc61be683d49" />
 
 ## File Reference
 
