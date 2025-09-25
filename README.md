@@ -63,7 +63,7 @@ RoboDK is the program that controls the robot arm. We use it to check everything
 
 1. Drag the **.csv file** you created in Step 2 into the RoboDK window
 
-2. A new item will appear - **Right-click** it and select **"Attach to Tool"**
+2. A new item will appear - **Drag it to the tool section of the tree**, it should appear by the robot flange.
 
 #### Position the Path:
 
