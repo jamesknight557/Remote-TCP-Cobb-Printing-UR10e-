@@ -1,6 +1,6 @@
 # Remote Clay Printing with UR10e Robot
 
-This guide explains how to use the robot arm to print with cobb. It involves a few different computer programs working together.
+This guide explains how to use the robot arm to print with cobb. It involves a few different computer programs working together. I've also attacged a zip file containg the simulation for the Kuka KR120
 
 ## Overview: The Big Picture
 
