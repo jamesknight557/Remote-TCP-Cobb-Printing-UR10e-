@@ -88,7 +88,9 @@ Now we get the clay flowing and start the robot.
 
 1. Turn on the **Pugmill** (the clay feeder)
 
-2. Turn on the **Auger** (the screw that pushes clay out of the nozzle), the arduino code is attached, however powering on the powersupply and ensuring the arduino is powered via usb will start the auger.
+2. Turn on the **Auger** (the screw that pushes clay out of the nozzle), the arduino code and wiring diagram is attached, however powering on the powersupply and ensuring the arduino is powered via usb will start the auger.
+
+<img width="1222" height="845" alt="image" src="https://github.com/user-attachments/assets/019d6807-9ffa-43f2-8303-bed62d5ea032" />
 
 #### Start the Robot Program:
 
