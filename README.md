@@ -90,7 +90,8 @@ Now we get the clay flowing and start the robot.
 
 2. Turn on the **Auger** (the screw that pushes clay out of the nozzle), the arduino code and wiring diagram is attached, however powering on the powersupply and ensuring the arduino is powered via usb will start the auger.
 
-<img width="1222" height="845" alt="image" src="https://github.com/user-attachments/assets/019d6807-9ffa-43f2-8303-bed62d5ea032" />
+<img width="1222" height="845" alt="image" src="https://github.com/user-attachments/assets/019d6807-9ffa-43f2-8303-bed62d5ea032" /> <img width="1148" height="888" alt="image" src="https://github.com/user-attachments/assets/d06d2331-a0dd-4757-b05c-f4119a18ec0c" />
+
 
 #### Start the Robot Program:
 
